@@ -18,7 +18,7 @@ Ultrawide cutscenes fix for 007 First Light. Removes black bars, letterbox and s
 </p>
 
 ---
-
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ## Experience 007 First Light The Way It Should Be
 
 Playing on an ultrawide monitor but still getting black bars during cutscenes?
