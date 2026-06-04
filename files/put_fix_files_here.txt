@@ -1,0 +1,1 @@
+Place the ultrawide fix files in this folder before building the release ZIP.
