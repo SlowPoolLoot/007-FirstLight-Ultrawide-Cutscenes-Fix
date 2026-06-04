@@ -1,6 +1,14 @@
 # 007-FirstLight-Ultrawide-Cutscenes-Fix
 Ultrawide cutscenes fix for 007 First Light. Removes black bars, letterbox and side bars for 21:9 and 32:9 displays.
+<h1 align="center">007 FirstLight Ultrawide Cutscenes Fix</h1>
 
+<p align="center">
+Remove Black Bars • Full 21:9 Support • Full 32:9 Support
+</p>
+
+<p align="center">
+<a href="../../releases">⬇ Download Latest Release</a>
+</p>
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
