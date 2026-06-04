@@ -120,13 +120,9 @@ This fix removes cinematic letterboxing and restores the full image area for mod
 
 ## Screenshots
 
-### Before
+### Before-After
 
-![Before](before.jpg)
-
-### After
-
-![After](after.jpg)
+![Before](before-after.jpg)
 
 ---
 
